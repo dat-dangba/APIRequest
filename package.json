@@ -4,5 +4,8 @@
   "description": "API Request (GET, POST, PUT, DELETE).",
   "author": "datdb",
   "version": "1.0.0",
-  "website": "https://github.com/dat-dangba/APIRequest"
+  "website": "https://github.com/dat-dangba/APIRequest",
+  "dependencies": {
+    "com.unity.nuget.newtonsoft-json": "3.2.2"
+  }
 }
