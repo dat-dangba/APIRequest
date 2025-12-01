@@ -39,7 +39,6 @@ public abstract class BaseAPIManager<I> : MonoBehaviour where I : MonoBehaviour
         string bodyJson = null)
     {
         string url = GetUrlRequest(path);
-        Debug.Log($"datdb - url {url}");
         UnityWebRequest req;
 
         if (method == UnityWebRequest.kHttpVerbGET)
