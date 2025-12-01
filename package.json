@@ -1,0 +1,8 @@
+{
+  "name": "com.datdb.apirequest",
+  "displayName": "API Request",
+  "description": "API Request (GET, POST, PUT, DELETE).",
+  "author": "datdb",
+  "version": "1.0.0",
+  "website": "https://github.com/dat-dangba/APIRequest"
+}
