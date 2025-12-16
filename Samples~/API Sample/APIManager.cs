@@ -1,8 +1,9 @@
 using System.Collections.Generic;
+using APIRequest;
 using UnityEngine;
 using Newtonsoft.Json;
 
-namespace APIRequest
+namespace APIRequestSample
 {
     public class APIManager : BaseAPIManager<APIManager>
     {
