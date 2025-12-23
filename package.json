@@ -1,6 +1,6 @@
 {
   "name": "com.datdb.apirequest",
-  "displayName": "API Request",
+  "displayName": "DBD-APIRequest",
   "description": "API Request (GET, POST, PUT, DELETE).",
   "author": "datdb",
   "version": "1.0.0",
