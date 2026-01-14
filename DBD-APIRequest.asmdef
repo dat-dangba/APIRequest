@@ -1,9 +1,7 @@
 {
-    "name": "APIRequest",
-    "rootNamespace": "",
-    "references": [
-        ""
-    ],
+    "name": "DBD-APIRequest",
+    "rootNamespace": "DBD.APIRequest",
+    "references": [],
     "includePlatforms": [],
     "excludePlatforms": [],
     "allowUnsafeCode": false,

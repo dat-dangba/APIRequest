@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 using System.Collections.Generic;
 using Newtonsoft.Json;
 
-namespace APIRequest
+namespace DBD.APIRequest
 {
     public abstract class BaseAPIManager<I> : MonoBehaviour where I : MonoBehaviour
     {
